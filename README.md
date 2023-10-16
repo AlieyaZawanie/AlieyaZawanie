@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alieya Zawanie Zaini</h1>
-<h3 align="center"> A dedicated computer science student with a deep passion for technology. I thrive on the challenges of coding and have a track record of turning that passion into practical innovation. My commitment to excellence has been recognized through awards and achievements in the field. I believe in the power of technology to make a positive impact, and I'm excited to continue my journey in computer science to contribute to a brighter future.</h3>
+
+<h3 align="center">A dedicated computer science student with a deep passion for technology. I thrive on the challenges of coding and have a track record of turning that passion into practical innovation. My commitment to excellence has been recognized through awards and achievements in the field. I believe in the power of technology to make a positive impact, and I'm excited to continue my journey in computer science to contribute to a brighter future</h3>
 <img align="right" alt="Coding" width="400" src= "https://si.wsj.net/public/resources/images/OG-DV513_202002_M_20200221131814.gif"
 
 
