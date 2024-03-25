@@ -49,7 +49,6 @@
 </div>
 
 
-
 <!-- Certications -->
 # 🏆Licences & Certifications
 
@@ -81,7 +80,9 @@
 
 </details>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlieyaZawanie&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 ## Use To Code
+
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -115,7 +116,6 @@
 </p>
 
 <br/>
-
 
 # Below are some of my favourite pinned repositories :point_down:
 
