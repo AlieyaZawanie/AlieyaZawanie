@@ -64,6 +64,22 @@
   </ul>
 </div>
 
+<details>
+ <summary><h2>📚My Past Project</h2></summary>
+<p align="left">
+    <a href="https://github.com/AlieyaZawanie/Car-Booking-System"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=AlieyaZawanie&repo=Car-Booking-System&theme=react&bg_color=1F222E&title_color=BD93F9&hide_border=true&icon_color=F8D866&show_icons=false" alt="Car-Booking-System"></a>
+    <a href="https://github.com/AlieyaZawanie/UTM-ATTENDANCE-SYSTEM"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=AlieyaZawanie&repo=UTM-ATTENDANCE-SYSTEM&theme=react&bg_color=1F222E&title_color=BD93F9&hide_border=true&icon_color=F8D866&show_icons=false" alt="UTM-ATTENDANCE-SYSTEM"></a>
+    <a href="https://github.com/AlieyaZawanie/Coffee-Shop"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=AlieyaZawanie&repo=Coffee-Shop&theme=react&bg_color=1F222E&title_color=BD93F9&hide_border=true&icon_color=F8D866&show_icons=false" alt="Coffee-Shop"></a>
+    <a href="https://github.com/AlieyaZawanie/KNIME-project-DataMining"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=AlieyaZawanie&repo=KNIME-project-DataMining&theme=react&bg_color=1F222E&title_color=BD93F9&hide_border=true&icon_color=F8D866&show_icons=false" alt="KNIME-project-DataMining"></a>
+    <a href="https://github.com/AlieyaZawanie/Business-Intelligence-Project"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=AlieyaZawanie&repo=Business-Intelligence-Project&theme=react&bg_color=1F222E&title_color=BD93F9&hide_border=true&icon_color=F8D866&show_icons=false" alt="Business-Intelligence-Project"></a>
+    <a href="https://github.com/AlieyaZawanie/Data-Queries-For-Analytic-Dashboard"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=AlieyaZawanie&repo=Data-Queries-For-Analytic-Dashboard&theme=react&bg_color=1F222E&title_color=BD93F9&hide_border=true&icon_color=F8D866&show_icons=false" alt="Data-Queries-For-Analytic-Dashboard"></a>
+    <a href="https://github.com/AlieyaZawanie/Data-Analytic-Programming-LAB"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=AlieyaZawanie&repo=Data-Analytic-Programming-LAB&theme=react&bg_color=1F222E&title_color=BD93F9&hide_border=true&icon_color=F8D866&show_icons=false" alt="Data-Analytic-Programming-LAB"></a>
+    <a href="https://github.com/AlieyaZawanie/Database-Programming-LAB"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=AlieyaZawanie&repo=Database-Programming-LAB&theme=react&bg_color=1F222E&title_color=BD93F9&hide_border=true&icon_color=F8D866&show_icons=false" alt="Database-Programming-LAB"></a>
+    <a href="https://github.com/AlieyaZawanie/Data-Analytic-Programming-Project"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=AlieyaZawanie&repo=Data-Analytic-Programming-Project&theme=react&bg_color=1F222E&title_color=BD93F9&hide_border=true&icon_color=F8D866&show_icons=false" alt="Data-Analytic-Programming-Project"></a>
+</p>
+
+
+</details>
 
 ## Use To Code
 
@@ -87,6 +103,17 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+<br/>
+
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=AlieyaZawanie&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=AlieyaZawanie&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=AlieyaZawanie&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+    <a href="https://www.linkedin.com/in/alieya-zaini/"> <img align="center" src="https://img.shields.io/badge/-Let's%20connect%20with%20me%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Let's connect with me on LinkedIn" /></a>
+</p>
+
 <br/>
 
 
