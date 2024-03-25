@@ -107,15 +107,25 @@
 <br/>
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=AlieyaZawanie&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=AlieyaZawanie&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=AlieyaZawanie&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
-  <br>
-    <a href="https://www.linkedin.com/in/alieya-zaini/"> <img align="center" src="https://img.shields.io/badge/-Let's%20connect%20with%20me%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Let's connect with me on LinkedIn" /></a>
+  <a href="https://github.com/AlieyaZawanie">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlieyaZawanie&theme=radical&border=7F3FBF&background=0D1117" alt="AlieyaZawanie's GitHub streak"/>
+  </a>
 </p>
 
-<br/>
+<p align="center">
+  <a href="https://github.com/AlieyaZawanie">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlieyaZawanie&theme=radical" alt="AlieyaZawanie's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/AlieyaZawanie"><img alt="AlieyaZawanie's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AlieyaZawanie&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/AlieyaZawanie"><img alt="AlieyaZawanie's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AlieyaZawanie&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+![AlieyaZawanie's Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlieyaZawanie&custom_title=AlieyaZawanie's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
 
 # Below are some of my favourite pinned repositories :point_down:
 
