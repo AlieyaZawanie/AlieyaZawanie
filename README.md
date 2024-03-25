@@ -87,8 +87,12 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-
 <br/>
 
+
+# Below are some of my favourite pinned repositories :point_down:
+
+<div align="center">
+<img align="center" src="https://emoji.gg/assets/emoji/7524_this_animated_bottom.gif">
+ </div>
 
