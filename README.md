@@ -41,7 +41,7 @@
       💬 &emsp; Currently pursuing a Bachelor of Computer Science in Data Engineering at Universiti Teknologi Malaysia <br/><br/>
       ✌️ &emsp; Enjoy doing programming and sharing knowledge <br/><br/>
       ❤️ &emsp; Love to learn something new <br/><br/>
-      📧 &emsp; Reach me anytime: alieyazawanie@gmail.com <br/><br/>
+      📧 &emsp; Reach me anytime: alieyazawaniezaini@gmail.com <br/><br/>
     </p>
   </div>
   
