@@ -18,7 +18,7 @@
 
  
 <p align="center">
- <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=alieyazawanie@gmail.com" target="blank">
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=alieyazawaniezaini@gmail.com" target="blank">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
  </a>
  <a href="https://www.linkedin.com/in/alieya-zaini" target="_blank">
